@@ -1,0 +1,70 @@
+Common Skills
+Python, Java, C++, C, Javascript
+Pandas Numpy Matplotlib Seaborn - basic ml 
+
+Prathamesh Thakare
+    1. Pitching
+    2. StreamLit
+
+Om Bhojane
+    1. React
+    2. Flask
+    3. OpenCV
+    4. StreamLit
+    5. Firebase
+
+Mihir Panchal
+    1. React
+    2. Flask
+    3. React Native
+    4. AWS
+    5. Gcloud gcp
+    6. StreamLit
+    7. Computer Vision - OpenCV
+    8. Firebase
+
+Sairaj Varavadekar
+    1. React
+    2. Flask
+    3. React Native
+    4. AWS
+    5. Gcloud gcp
+    6. StreamLit
+    7. Computer Vision - OpenCV
+    8. Firebase
+
+Dev Shirishkar
+    1. StreamLit
+    2. Algorithm
+
+
+Prathamesh Thakare - Mediator + StreamLit
+Dev Shirishkar - Algorithm + StreamLit
+Om Bhojane - React, 
+Mihir Panchal - Flask, React Native
+Sairaj Varavadekar - Flask, React Native
+
+1 hours
+Planning
+
+First 4 hours
+
+Prathamesh Thakare - Algorithm
+Dev Shirishkar - Algorithm
+Om Bhojane - React 
+Mihir Panchal - React Native
+Sairaj Varavadekar - React Native
+
+Second 3 hours 
+Prathamesh Thakare - StreamLit
+Dev Shirishkar - StreamLit
+Om Bhojane - React
+Mihir Panchal - Flask
+Sairaj Varavadekar - Flask
+
+Third 3 hours
+Prathamesh Thakare - StreamLit
+Dev Shirishkar - StreamLit
+Om Bhojane - React
+Mihir Panchal - Flask, Cloud
+Sairaj Varavadekar - Flask
