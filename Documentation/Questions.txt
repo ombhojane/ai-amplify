@@ -1,0 +1,53 @@
+1. Problem Statement
+   3 problem statements
+   Complete all 3
+   a Dificult
+   b Medium
+   c Easy
+
+2. More than 1 products
+    Ok
+    1. React + Flask + AWS 
+    2. React Native + Flask + AWS
+    3. StreamLit + AWS 
+
+3. Finance related?
+    related to anything medical 
+
+4. Pitching karne ka time
+    1 Round end
+
+5. Mid Judging rounds
+    No mid judging rounds / Checkpoint there wil be mentors
+
+6. How many teams are in hackathon?
+    35 Teams are there
+
+7. How many teams will be selected for final round?
+    out of 35 3 will be selected
+
+8. Dataset will given or not?
+    Yes
+
+9. Prize money?
+    1st 2nd 3rd efforts
+
+10. Judges 
+
+PPT Format
+Team name
+Team members
+general
+
+
+6.00 Judging Round 18/35 
+
+
+
+Home -> Dataset csv -> json 
+Analysis -> Enter .. .. -> Flask model.predict() -> json
+Camera -> Camera Handwriting detection -> Flask model.predict() -> json
+Messaging -> Chatbot -> Flask model.predict() -> json
+My Account -> Login
+
+Home, Analysis, Camera, Messaging, My Account
