@@ -127,7 +127,8 @@ const styles = StyleSheet.create({
   bio: {
     fontSize: 16,
     color: '#888', // Gray bio text color
-    marginBottom: 20,
+    marginBottom: 10,
+    marginTop: 10,
   },
   nameInput: {
     fontSize: 24,

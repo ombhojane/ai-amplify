@@ -1,9 +1,10 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
-import { Camera as ExpoCamera } from 'expo-camera'; // Assuming you are using Expo Camera API
+import { Camera as ExpoCamera } from 'expo-camera';
 
 const CameraScreen = () => {
   const [hasPermission, setHasPermission] = useState(null);
+  const [cameraType, setCameraType] = useState(ExpoCamera.Constants.Type.front);
   const cameraRef = useRef(null);
 
   useEffect(() => {
@@ -25,6 +26,14 @@ const CameraScreen = () => {
     }
   };
 
+  const switchCamera = () => {
+    setCameraType((prevType) =>
+      prevType === ExpoCamera.Constants.Type.front
+        ? ExpoCamera.Constants.Type.back
+        : ExpoCamera.Constants.Type.front
+    );
+  };
+
   if (hasPermission === null) {
     return <View />;
   }
@@ -34,10 +43,13 @@ const CameraScreen = () => {
 
   return (
     <View style={styles.container}>
-      <ExpoCamera ref={cameraRef} style={styles.camera} type={ExpoCamera.Constants.Type.back} />
+      <ExpoCamera ref={cameraRef} style={styles.camera} type={cameraType} />
       <View style={styles.buttonContainer}>
         <TouchableOpacity style={styles.button} onPress={takePicture}>
           <Text style={styles.buttonText}>Take Picture</Text>
+        </TouchableOpacity>
+        <TouchableOpacity style={styles.button} onPress={switchCamera}>
+          <Text style={styles.buttonText}>Switch Camera</Text>
         </TouchableOpacity>
       </View>
     </View>
@@ -64,6 +76,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',
     padding: 20,
     borderRadius: 10,
+    marginBottom: 10,
   },
   buttonText: {
     fontSize: 18,

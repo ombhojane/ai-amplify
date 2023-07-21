@@ -1,4 +1,3 @@
-// screens/MessagingScreen.js
 import React, { useState } from 'react';
 import { View, FlatList, TextInput, TouchableOpacity, StyleSheet, Text } from 'react-native';
 
@@ -6,16 +5,17 @@ const MessagingScreen = () => {
   const [messages, setMessages] = useState([]);
   const [newMessage, setNewMessage] = useState('');
 
-  const handleSendMessage = () => {
+  const handleSendMessage = async () => {
     if (newMessage.trim() !== '') {
       const message = {
         id: new Date().getTime().toString(),
         text: newMessage,
-        sender: 'Me', // Replace 'Me' with actual user name or ID
+        sender: 'Me',
       };
 
       setMessages([...messages, message]);
       setNewMessage('');
+
     }
   };
 
