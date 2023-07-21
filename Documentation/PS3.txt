@@ -1,0 +1,10 @@
+Problem Statement Difficulty: HARD
+
+Problem Statement: Fake Image Detection 
+
+Problem Statement Description: Problem Description: Your task is to develop an AI system that can detect whether an image is real or fake. The system should be able to analyze an image and determine whether it has been artificially generated or manipulated. The system should be robust enough to handle a wide variety of image types and modifications. Use Computer Vision wherever needed.
+Input: An image provided by the user. The image could be of any subject matter and could potentially have been manipulated or artificially generated.
+
+Output: A determination of whether the image is real or fake. The system should provide a clear indication of the authenticity of the image based on its analysis.
+
+Rules: Participants can use existing image analysis algorithms or deep learning models to develop the system. However, they should justify their choice of algorithms/models and explain how these contribute to the effectiveness of the system. They should demonstrate the system's ability to accurately detect a wide variety of fake images.

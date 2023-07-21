@@ -1,0 +1,13 @@
+Problem Statement Difficulty: MODERATE
+
+Problem Statement: Inventory Demand Forecasting
+
+Problem Statement Description: Problem Description: Your task is to develop an AI-based system that can predict next month's sales for various geographies, distributors, and retailers based on provided sales data. The system should be able to analyze past sales data, understand patterns, account for seasonal trends, and make accurate demand forecasts. The accuracy of the forecast is critical as it can significantly impact the supply chain and business operations.
+Input: Historical sales data of different geographies, distributors, and retailers. This data could include information such as the number of units sold, revenue generated, time of year, promotional activities, and more.
+
+Output: A forecast of next month's sales for different geographies, distributors, and retailers. The forecast should include a predicted number of units sold and the associated revenue.
+
+Rules: Participants are allowed to use existing forecasting algorithms to develop the system. However, they should justify their choice of tools and explain how these tools contribute to the effectiveness of the system. The participants should be able to demonstrate the accuracy of their forecasting system and its robustness to handle diverse datasets.
+
+Reference: The reference provides a step-by-step guide on how to implement an ARIMA model for inventory demand forecasting in Python. Participants can use this tutorial to understand the problem, learn a potential solution approach, and get a starting point for their own code.
+https://www.geeksforgeeks.org/inventory-demand-forecasting-using-machine-learning-python/

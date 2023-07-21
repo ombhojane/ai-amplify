@@ -1,0 +1,14 @@
+Problem Statement Difficulty: EASY
+
+Problem Statement: Capture the Emotional State of a User as a Prompt and Generate Avatar based on Emotional State 
+
+Problem Statement Description: Problem Description: Your task is to develop an AI system that uses machine learning algorithms or computer vision to interpret the emotional state of a user based on their facial expression from an image and a provided text prompt. Once the emotional state is determined, the system should generate a digital avatar that accurately represents this emotion. 
+Input: User-provided images and a related text prompt. The image will showcase the user's facial expression, and the prompt will provide additional context about the user's emotional state. The system should be designed to handle a wide range of emotions and corresponding facial expressions.
+
+Output: A digital avatar that visually represents the user's emotional state as interpreted from the input image and text prompt. The avatar should be designed in a way that clearly communicates the identified emotion, using appropriate colors, shapes, and expressions.
+
+Rules: Participants are allowed to use existing AI algorithms, including image recognition and natural language processing tools. However, they should justify their choice of algorithms and explain how these contribute to the effectiveness of the system. The system's ability to accurately interpret a wide range of emotions and generate expressive avatars will be a key evaluation criterion.
+
+Reference: Participants can use this as reference for their AI system to interpret emotional states from visual inputs and generate the avatar.
+
+https://www.facebook.com/renesistech/videos/realtime-detection-of-feelings-in-the-video-using-aiwill-smith-looks-pretty-chil/1360130384418106/&sa=D&source=docs&ust=1689771164990662&usg=AOvVaw3SnCyDFhXpnwc92nTEOgXQ

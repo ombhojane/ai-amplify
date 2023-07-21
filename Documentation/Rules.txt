@@ -1,0 +1,100 @@
+Dear Participants,
+ 
+Hope this mail finds you well, we are happy to announce that the time has come to meet each and every one of you.
+ 
+As the Hackathon would be taking place in an office environment, we want you to follow these rules and regulations:
+ 
+Important Note:
+Carry ID Proof for Identity Verification
+Aadhaar card
+Driving License
+Pan card
+Digi Locker
+College ID would not be accepted as ID Proof
+ 
+Details about Hackathon:
+ 
+Project Scope: Each team must work on a single project throughout the hackathon. The project can be software-based, hardware-based, or a combination of both. Participants must disclose their project details and any pre-existing code or assets used.
+ 
+Code of Conduct: All participants must adhere to a code of conduct that promotes respectful behaviour, inclusivity, and a harassment-free environment. Any violations of the code of conduct may result in disqualification or removal from the event.
+ 
+Time Constraints: The hackathon will have a specific duration, typically ranging from a few hours to several days. Participants must work within this timeframe and submit their projects by the specified deadline. Late submissions may be disqualified.
+ 
+Intellectual Property: Participants retain ownership of their intellectual property. However, organizers may request a non-exclusive license to showcase or promote the projects developed during the hackathon.
+ 
+External Resources: Participants are generally allowed to use open-source libraries, frameworks, APIs, and publicly available data sets. However, the use of pre-existing, fully developed projects or commercial solutions is usually prohibited unless explicitly stated otherwise.
+ 
+Judging Criteria: Projects will be evaluated based on predetermined criteria, which may include creativity, technical complexity, usability, impact, and presentation. The judging criteria should be communicated to participants before the hackathon starts.
+ 
+Prizes and Awards: The hackathon may offer various prizes and awards, such as cash prizes, mentorship opportunities, or access to resources. The specific details, including the distribution of prizes, should be clearly communicated to participants.
+ 
+Disqualification: Organizers reserve the right to disqualify teams or individuals who violate the rules, engage in unethical practices, or fail to comply with the code of conduct. The decision of the organizers and judges is final.
+
+
+Participants have to follow the below rules:
+ 
+1.     Respectful and Inclusive Environment:
+·       Treat all participants, organizers, sponsors, and staff with respect and professionalism, regardless of their background, race, gender, sexual orientation, religion, or any other personal characteristic.
+ 
+·       Create an inclusive environment where everyone feels welcome, valued, and safe to express their ideas and opinions.
+ 
+2.     Collaboration and Teamwork:
+·       Encourage collaboration and teamwork among participants.
+ 
+·       Foster a supportive atmosphere where participants can share knowledge, skills, and ideas openly.
+ 
+·       Respect and value the contributions of all team members, ensuring equal participation and opportunity for everyone.
+ 
+3.     Original Work:
+·       Participants must submit original work that they have developed during the hackathon.
+ 
+·       Plagiarism or any form of intellectual property infringement is strictly prohibited.
+ 
+·       Properly cite and credit any external resources, libraries, or code snippets used.
+ 
+4.       Ethical Behaviour:
+·       Participants must adhere to high ethical standards throughout the hackathon.
+ 
+·       Avoid engaging in activities that may harm the systems, networks, or privacy of others.
+ 
+·       Do not attempt to exploit or manipulate vulnerabilities in the provided infrastructure or other participants' projects.
+ 
+5.       Code of Ethics:
+·       Promote responsible and ethical use of technology.
+ 
+·       Do not develop or showcase projects that promote hate speech, discrimination, harassment, or any form of harm to individuals or groups.
+ 
+·       Respect legal and ethical boundaries when working with sensitive data.
+ 
+6.       Intellectual Property:
+·       Participants retain ownership of their intellectual property developed during the hackathon.
+ 
+·       However, by participating, participants grant the organizers and sponsors the right to use their work for promotional and educational purposes related to the hackathon.
+ 
+7.       Compliance with Laws and Regulations:
+·       Participants must comply with all applicable local, national, and international laws and regulations.
+ 
+·       Respect copyright laws, licensing agreements, and intellectual property rights.
+ 
+8.       Reporting Violations:
+·       If any participant observes a violation of the code of conduct or encounters any inappropriate behaviour, they should promptly report it to the event organizers or designated staff.
+ 
+·       The organizers will take appropriate action to address reported violations and maintain a safe environment.
+ 
+9.       Consequences of Violations:
+·       Violations of the code of conduct may result in penalties, including but not limited to, disqualification, expulsion from the event, or legal actions, depending on the severity of the offense.
+ 
+10.   Changes to the Code of Conduct:
+·       The organizers reserve the right to modify or update the code of conduct as necessary.
+ 
+·       Participants will be notified of any changes, and they are expected to comply with the updated version.
+ 
+Remember, these rules are intended to provide a safe and inclusive environment for all participants and to promote ethical conduct during the hackathon.
+ 
+In case of participants failing to follow the above rules the amount of convenience fee ₹2000 would be charged.
+ 
+Note:
+On the Entry participants Laptop MAC Address would be required and Discord Account.
+
+Best Regards,
+Rishika Agrawal | Flutter Developer

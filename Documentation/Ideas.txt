@@ -16,6 +16,7 @@ Chatgpt APIs
 Flutter / Firebase
 VS Code Extension 
 
+akkio.ai
 https://www.lobe.ai/
 Mercury
 Spline.ai
