@@ -5,7 +5,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { Ionicons } from '@expo/vector-icons';
 import HomeScreen from './screens/HomeScreen';
-import AnalysisScreen from './screens/AnalysisScreen';
+import AvatarScreen from './screens/AvatarScreen';
 import CameraScreen from './screens/CameraScreen';
 import MyProfileScreen from './screens/MyProfileScreen';
 import MessagingScreen from './screens/MessagingScreen';
@@ -43,7 +43,7 @@ const App = () => {
 
                 if (route.name === 'Home') {
                   iconName = focused ? 'home' : 'home-outline';
-                } else if (route.name === 'Analysis') {
+                } else if (route.name === 'Avatar') {
                   iconName = focused ? 'analytics' : 'analytics-outline';
                 } else if (route.name === 'Camera') {
                   iconName = focused ? 'camera' : 'camera-reverse-outline';
@@ -63,7 +63,7 @@ const App = () => {
             tabBarStyle={{ display: keyboardVisible ? 'none' : 'flex' }}
           >
             <Tab.Screen name="Home" component={HomeScreen} />
-            <Tab.Screen name="Analysis" component={AnalysisScreen} />
+            <Tab.Screen name="Avatar" component={AvatarScreen} />
             <Tab.Screen name="Camera" component={CameraScreen} />
             <Tab.Screen name="Messaging" component={MessagingScreen} />
             <Tab.Screen name="My Profile" component={MyProfileScreen} />
