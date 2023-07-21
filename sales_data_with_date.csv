@@ -1,0 +1,961 @@
+Geographical Region,Distributor,Retailer,Date,Week Number,Number of Units Sold,Revenue Generated
+South America,MobileX,Oneplus,2023-01-30,3,187,26928
+South America,MobileX,Oneplus,2023-02-21,2,193,30301
+South America,MobileX,Oneplus,2023-03-08,4,151,21442
+South America,MobileX,Oneplus,2023-04-21,1,153,20502
+South America,MobileX,Oneplus,2023-05-26,1,192,21696
+South America,MobileX,Oneplus,2023-06-07,2,198,30888
+South America,MobileX,Oneplus,2023-07-12,4,86,8944
+South America,MobileX,Oneplus,2023-08-14,2,181,24616
+South America,MobileX,Oneplus,2023-09-19,1,194,25996
+South America,MobileX,Oneplus,2023-10-25,1,183,27633
+South America,MobileX,Oneplus,2023-11-02,3,126,19908
+South America,MobileX,Oneplus,2023-12-08,4,61,9272
+South America,MobileX,Samsung,2023-01-16,2,133,22344
+South America,MobileX,Samsung,2023-02-25,2,190,30400
+South America,MobileX,Samsung,2023-03-10,2,58,6322
+South America,MobileX,Samsung,2023-04-04,1,99,13365
+South America,MobileX,Samsung,2023-05-23,3,69,11937
+South America,MobileX,Samsung,2023-06-12,2,82,14104
+South America,MobileX,Samsung,2023-07-16,2,95,18050
+South America,MobileX,Samsung,2023-08-12,4,91,10101
+South America,MobileX,Samsung,2023-09-12,1,65,7280
+South America,MobileX,Samsung,2023-10-29,4,62,10106
+South America,MobileX,Samsung,2023-11-02,4,159,18285
+South America,MobileX,Samsung,2023-12-13,2,53,6095
+South America,MobileX,Apple,2023-01-10,3,83,13695
+South America,MobileX,Apple,2023-02-19,1,149,21158
+South America,MobileX,Apple,2023-03-13,1,119,22015
+South America,MobileX,Apple,2023-04-16,2,165,26400
+South America,MobileX,Apple,2023-05-20,1,186,26412
+South America,MobileX,Apple,2023-06-23,1,197,24231
+South America,MobileX,Apple,2023-07-30,3,99,18810
+South America,MobileX,Apple,2023-08-06,2,105,13755
+South America,MobileX,Apple,2023-09-09,3,75,9300
+South America,MobileX,Apple,2023-10-18,2,166,32204
+South America,MobileX,Apple,2023-11-22,3,51,9741
+South America,MobileX,Apple,2023-12-01,4,162,30294
+South America,MobileX,Redmi,2023-01-08,4,53,7208
+South America,MobileX,Redmi,2023-02-27,4,106,19398
+South America,MobileX,Redmi,2023-03-26,1,158,16906
+South America,MobileX,Redmi,2023-04-27,1,120,16440
+South America,MobileX,Redmi,2023-05-04,1,60,8100
+South America,MobileX,Redmi,2023-06-20,1,102,15810
+South America,MobileX,Redmi,2023-07-24,3,120,20040
+South America,MobileX,Redmi,2023-08-15,2,59,6372
+South America,MobileX,Redmi,2023-09-08,1,131,16113
+South America,MobileX,Redmi,2023-10-24,4,91,13377
+South America,MobileX,Redmi,2023-11-08,2,143,28457
+South America,MobileX,Redmi,2023-12-24,1,148,28564
+South America,MobileX,Oppo,2023-01-17,4,192,28992
+South America,MobileX,Oppo,2023-02-25,1,65,8840
+South America,MobileX,Oppo,2023-03-30,1,84,13524
+South America,MobileX,Oppo,2023-04-17,2,135,25920
+South America,MobileX,Oppo,2023-05-13,2,101,13029
+South America,MobileX,Oppo,2023-06-02,1,148,25900
+South America,MobileX,Oppo,2023-07-14,1,191,22156
+South America,MobileX,Oppo,2023-08-28,2,128,24832
+South America,MobileX,Oppo,2023-09-11,4,125,13875
+South America,MobileX,Oppo,2023-10-14,3,92,17480
+South America,MobileX,Oppo,2023-11-11,2,175,27125
+South America,MobileX,Oppo,2023-12-04,2,153,17901
+South America,Mobite,Oneplus,2023-01-26,3,71,9301
+South America,Mobite,Oneplus,2023-02-05,1,82,10332
+South America,Mobite,Oneplus,2023-03-11,3,133,13566
+South America,Mobite,Oneplus,2023-04-19,4,113,18984
+South America,Mobite,Oneplus,2023-05-03,2,93,17763
+South America,Mobite,Oneplus,2023-06-03,4,199,25273
+South America,Mobite,Oneplus,2023-07-18,3,133,21679
+South America,Mobite,Oneplus,2023-08-02,3,180,28440
+South America,Mobite,Oneplus,2023-09-07,4,173,22144
+South America,Mobite,Oneplus,2023-10-29,4,83,13612
+South America,Mobite,Oneplus,2023-11-01,3,141,27636
+South America,Mobite,Oneplus,2023-12-13,4,199,25870
+South America,Mobite,Samsung,2023-01-14,3,187,23562
+South America,Mobite,Samsung,2023-02-28,1,72,11808
+South America,Mobite,Samsung,2023-03-24,4,72,8856
+South America,Mobite,Samsung,2023-04-16,1,88,13288
+South America,Mobite,Samsung,2023-05-09,1,101,19897
+South America,Mobite,Samsung,2023-06-06,3,89,12193
+South America,Mobite,Samsung,2023-07-09,1,141,14100
+South America,Mobite,Samsung,2023-08-12,2,59,6962
+South America,Mobite,Samsung,2023-09-20,3,91,10738
+South America,Mobite,Samsung,2023-10-24,3,196,22148
+South America,Mobite,Samsung,2023-11-08,3,60,11880
+South America,Mobite,Samsung,2023-12-18,2,88,12408
+South America,Mobite,Apple,2023-01-24,3,111,16650
+South America,Mobite,Apple,2023-02-15,3,94,16920
+South America,Mobite,Apple,2023-03-31,3,56,10472
+South America,Mobite,Apple,2023-04-01,2,186,34968
+South America,Mobite,Apple,2023-05-12,1,179,25776
+South America,Mobite,Apple,2023-06-05,4,62,9548
+South America,Mobite,Apple,2023-07-17,4,113,17289
+South America,Mobite,Apple,2023-08-17,3,194,24638
+South America,Mobite,Apple,2023-09-07,1,87,10875
+South America,Mobite,Apple,2023-10-13,1,89,16198
+South America,Mobite,Apple,2023-11-21,3,192,31296
+South America,Mobite,Apple,2023-12-30,1,140,27580
+South America,Mobite,Redmi,2023-01-12,2,189,27216
+South America,Mobite,Redmi,2023-02-10,3,161,21091
+South America,Mobite,Redmi,2023-03-30,4,182,27664
+South America,Mobite,Redmi,2023-04-26,2,189,36666
+South America,Mobite,Redmi,2023-05-31,2,164,17220
+South America,Mobite,Redmi,2023-06-15,2,176,23056
+South America,Mobite,Redmi,2023-07-08,4,158,22120
+South America,Mobite,Redmi,2023-08-27,3,164,18040
+South America,Mobite,Redmi,2023-09-02,3,156,26364
+South America,Mobite,Redmi,2023-10-17,1,150,18450
+South America,Mobite,Redmi,2023-11-19,1,199,35223
+South America,Mobite,Redmi,2023-12-18,2,144,15840
+South America,Mobite,Oppo,2023-01-30,1,106,18338
+South America,Mobite,Oppo,2023-02-05,2,51,6630
+South America,Mobite,Oppo,2023-03-26,3,117,16614
+South America,Mobite,Oppo,2023-04-15,1,128,23168
+South America,Mobite,Oppo,2023-05-21,1,90,13950
+South America,Mobite,Oppo,2023-06-10,1,155,30380
+South America,Mobite,Oppo,2023-07-24,2,178,21894
+South America,Mobite,Oppo,2023-08-17,1,154,29106
+South America,Mobite,Oppo,2023-09-08,1,181,25159
+South America,Mobite,Oppo,2023-10-07,4,141,19740
+South America,Mobite,Oppo,2023-11-27,4,67,8308
+South America,Mobite,Oppo,2023-12-08,1,142,16188
+South America,MobilePlanet,Oneplus,2023-01-19,3,95,11020
+South America,MobilePlanet,Oneplus,2023-02-17,1,190,25650
+South America,MobilePlanet,Oneplus,2023-03-21,2,161,26082
+South America,MobilePlanet,Oneplus,2023-04-23,1,56,7952
+South America,MobilePlanet,Oneplus,2023-05-12,3,128,21632
+South America,MobilePlanet,Oneplus,2023-06-10,1,60,11520
+South America,MobilePlanet,Oneplus,2023-07-02,3,58,6322
+South America,MobilePlanet,Oneplus,2023-08-31,4,100,18000
+South America,MobilePlanet,Oneplus,2023-09-09,2,62,9920
+South America,MobilePlanet,Oneplus,2023-10-15,1,91,16289
+South America,MobilePlanet,Oneplus,2023-11-04,1,138,18492
+South America,MobilePlanet,Oneplus,2023-12-26,4,50,7200
+South America,MobilePlanet,Samsung,2023-01-02,3,118,14632
+South America,MobilePlanet,Samsung,2023-02-07,3,180,29160
+South America,MobilePlanet,Samsung,2023-03-24,4,82,15170
+South America,MobilePlanet,Samsung,2023-04-05,3,126,19278
+South America,MobilePlanet,Samsung,2023-05-16,2,186,21762
+South America,MobilePlanet,Samsung,2023-06-02,3,190,26030
+South America,MobilePlanet,Samsung,2023-07-14,2,68,6936
+South America,MobilePlanet,Samsung,2023-08-11,4,152,23408
+South America,MobilePlanet,Samsung,2023-09-18,3,105,19950
+South America,MobilePlanet,Samsung,2023-10-23,4,166,28884
+South America,MobilePlanet,Samsung,2023-11-11,1,85,11475
+South America,MobilePlanet,Samsung,2023-12-23,1,192,33408
+South America,MobilePlanet,Apple,2023-01-29,4,178,18690
+South America,MobilePlanet,Apple,2023-02-26,2,65,7670
+South America,MobilePlanet,Apple,2023-03-25,1,92,17480
+South America,MobilePlanet,Apple,2023-04-06,1,66,8976
+South America,MobilePlanet,Apple,2023-05-16,3,166,32868
+South America,MobilePlanet,Apple,2023-06-12,3,90,9720
+South America,MobilePlanet,Apple,2023-07-11,2,100,14600
+South America,MobilePlanet,Apple,2023-08-04,2,128,18048
+South America,MobilePlanet,Apple,2023-09-07,3,155,24800
+South America,MobilePlanet,Apple,2023-10-17,4,65,12480
+South America,MobilePlanet,Apple,2023-11-12,4,72,11736
+South America,MobilePlanet,Apple,2023-12-24,4,127,16002
+South America,MobilePlanet,Redmi,2023-01-07,3,186,24924
+South America,MobilePlanet,Redmi,2023-02-19,1,178,25454
+South America,MobilePlanet,Redmi,2023-03-15,2,73,10731
+South America,MobilePlanet,Redmi,2023-04-07,3,182,20020
+South America,MobilePlanet,Redmi,2023-05-02,3,182,29666
+South America,MobilePlanet,Redmi,2023-06-20,4,175,29925
+South America,MobilePlanet,Redmi,2023-07-08,4,149,21754
+South America,MobilePlanet,Redmi,2023-08-19,4,80,10640
+South America,MobilePlanet,Redmi,2023-09-15,3,127,17399
+South America,MobilePlanet,Redmi,2023-10-07,2,162,17496
+South America,MobilePlanet,Redmi,2023-11-10,4,57,10431
+South America,MobilePlanet,Redmi,2023-12-28,3,69,10419
+South America,MobilePlanet,Oppo,2023-01-05,2,80,15280
+South America,MobilePlanet,Oppo,2023-02-07,1,143,16302
+South America,MobilePlanet,Oppo,2023-03-20,2,102,18564
+South America,MobilePlanet,Oppo,2023-04-02,3,180,26820
+South America,MobilePlanet,Oppo,2023-05-28,2,191,22538
+South America,MobilePlanet,Oppo,2023-06-21,3,199,32039
+South America,MobilePlanet,Oppo,2023-07-03,3,187,32351
+South America,MobilePlanet,Oppo,2023-08-01,1,196,20384
+South America,MobilePlanet,Oppo,2023-09-26,4,55,10010
+South America,MobilePlanet,Oppo,2023-10-30,1,135,24435
+South America,MobilePlanet,Oppo,2023-11-25,3,167,19539
+South America,MobilePlanet,Oppo,2023-12-15,3,153,29529
+South America,MobileGarage,Oneplus,2023-01-12,3,121,12221
+South America,MobileGarage,Oneplus,2023-02-11,2,198,28710
+South America,MobileGarage,Oneplus,2023-03-12,3,123,18450
+South America,MobileGarage,Oneplus,2023-04-04,4,114,20976
+South America,MobileGarage,Oneplus,2023-05-06,4,186,29388
+South America,MobileGarage,Oneplus,2023-06-11,3,109,17767
+South America,MobileGarage,Oneplus,2023-07-04,2,89,10680
+South America,MobileGarage,Oneplus,2023-08-23,2,63,6615
+South America,MobileGarage,Oneplus,2023-09-22,3,119,19992
+South America,MobileGarage,Oneplus,2023-10-17,3,180,21060
+South America,MobileGarage,Oneplus,2023-11-22,3,112,18480
+South America,MobileGarage,Oneplus,2023-12-23,1,103,14523
+South America,MobileGarage,Samsung,2023-01-05,2,106,20458
+South America,MobileGarage,Samsung,2023-02-19,4,190,24890
+South America,MobileGarage,Samsung,2023-03-27,3,146,29054
+South America,MobileGarage,Samsung,2023-04-02,1,115,21735
+South America,MobileGarage,Samsung,2023-05-11,1,136,17680
+South America,MobileGarage,Samsung,2023-06-18,4,151,16308
+South America,MobileGarage,Samsung,2023-07-12,3,87,17226
+South America,MobileGarage,Samsung,2023-08-19,3,167,31897
+South America,MobileGarage,Samsung,2023-09-15,4,131,18864
+South America,MobileGarage,Samsung,2023-10-18,4,61,11956
+South America,MobileGarage,Samsung,2023-11-22,4,146,22922
+South America,MobileGarage,Samsung,2023-12-27,1,96,12288
+South America,MobileGarage,Apple,2023-01-30,4,60,10200
+South America,MobileGarage,Apple,2023-02-07,2,149,19966
+South America,MobileGarage,Apple,2023-03-06,1,126,14742
+South America,MobileGarage,Apple,2023-04-13,2,98,11858
+South America,MobileGarage,Apple,2023-05-08,1,127,22098
+South America,MobileGarage,Apple,2023-06-27,3,176,19712
+South America,MobileGarage,Apple,2023-07-07,2,164,22304
+South America,MobileGarage,Apple,2023-08-26,4,72,12456
+South America,MobileGarage,Apple,2023-09-01,4,131,15589
+South America,MobileGarage,Apple,2023-10-20,4,65,8450
+South America,MobileGarage,Apple,2023-11-22,4,141,17766
+South America,MobileGarage,Apple,2023-12-19,4,159,30210
+South America,MobileGarage,Redmi,2023-01-18,1,120,14640
+South America,MobileGarage,Redmi,2023-02-24,2,115,12995
+South America,MobileGarage,Redmi,2023-03-28,4,119,17731
+South America,MobileGarage,Redmi,2023-04-28,4,192,38016
+South America,MobileGarage,Redmi,2023-05-03,1,72,10440
+South America,MobileGarage,Redmi,2023-06-06,1,199,34825
+South America,MobileGarage,Redmi,2023-07-08,1,81,8829
+South America,MobileGarage,Redmi,2023-08-30,2,114,16188
+South America,MobileGarage,Redmi,2023-09-27,2,52,5356
+South America,MobileGarage,Redmi,2023-10-05,2,148,15244
+South America,MobileGarage,Redmi,2023-11-08,1,122,20862
+South America,MobileGarage,Redmi,2023-12-09,4,70,13300
+South America,MobileGarage,Oppo,2023-01-24,3,121,17182
+South America,MobileGarage,Oppo,2023-02-15,3,55,10065
+South America,MobileGarage,Oppo,2023-03-27,2,75,14625
+South America,MobileGarage,Oppo,2023-04-15,4,73,10950
+South America,MobileGarage,Oppo,2023-05-16,4,63,10899
+South America,MobileGarage,Oppo,2023-06-30,3,117,22698
+South America,MobileGarage,Oppo,2023-07-23,3,82,10660
+South America,MobileGarage,Oppo,2023-08-03,3,165,24255
+South America,MobileGarage,Oppo,2023-09-24,4,152,22040
+South America,MobileGarage,Oppo,2023-10-11,1,92,13064
+South America,MobileGarage,Oppo,2023-11-21,4,84,12684
+South America,MobileGarage,Oppo,2023-12-24,4,188,35156
+Asia,MobileX,Oneplus,2023-01-05,2,173,21106
+Asia,MobileX,Oneplus,2023-02-20,4,113,12204
+Asia,MobileX,Oneplus,2023-03-28,3,146,18688
+Asia,MobileX,Oneplus,2023-04-22,4,90,9720
+Asia,MobileX,Oneplus,2023-05-18,1,142,26696
+Asia,MobileX,Oneplus,2023-06-27,1,93,17205
+Asia,MobileX,Oneplus,2023-07-15,1,106,16430
+Asia,MobileX,Oneplus,2023-08-02,3,53,6254
+Asia,MobileX,Oneplus,2023-09-07,3,179,26492
+Asia,MobileX,Oneplus,2023-10-31,3,191,34571
+Asia,MobileX,Oneplus,2023-11-10,1,128,25472
+Asia,MobileX,Oneplus,2023-12-28,4,125,22500
+Asia,MobileX,Samsung,2023-01-06,2,127,22733
+Asia,MobileX,Samsung,2023-02-26,3,98,11760
+Asia,MobileX,Samsung,2023-03-06,2,173,24912
+Asia,MobileX,Samsung,2023-04-19,3,184,19872
+Asia,MobileX,Samsung,2023-05-25,3,171,20178
+Asia,MobileX,Samsung,2023-06-26,3,51,9027
+Asia,MobileX,Samsung,2023-07-06,2,80,13520
+Asia,MobileX,Samsung,2023-08-12,4,118,16284
+Asia,MobileX,Samsung,2023-09-08,1,66,11088
+Asia,MobileX,Samsung,2023-10-19,3,66,7920
+Asia,MobileX,Samsung,2023-11-17,3,171,27702
+Asia,MobileX,Samsung,2023-12-28,2,175,30975
+Asia,MobileX,Apple,2023-01-14,2,101,12221
+Asia,MobileX,Apple,2023-02-25,4,70,7420
+Asia,MobileX,Apple,2023-03-03,2,140,15820
+Asia,MobileX,Apple,2023-04-22,2,139,27105
+Asia,MobileX,Apple,2023-05-07,3,72,10800
+Asia,MobileX,Apple,2023-06-29,3,93,14973
+Asia,MobileX,Apple,2023-07-19,1,134,19832
+Asia,MobileX,Apple,2023-08-24,1,173,32351
+Asia,MobileX,Apple,2023-09-19,3,119,17850
+Asia,MobileX,Apple,2023-10-15,4,174,20706
+Asia,MobileX,Apple,2023-11-05,2,176,25344
+Asia,MobileX,Apple,2023-12-10,2,126,15120
+Asia,MobileX,Redmi,2023-01-31,2,140,18620
+Asia,MobileX,Redmi,2023-02-27,1,169,18083
+Asia,MobileX,Redmi,2023-03-30,3,57,9234
+Asia,MobileX,Redmi,2023-04-09,4,66,9042
+Asia,MobileX,Redmi,2023-05-12,4,170,18190
+Asia,MobileX,Redmi,2023-06-18,3,52,6240
+Asia,MobileX,Redmi,2023-07-09,3,53,10547
+Asia,MobileX,Redmi,2023-08-23,2,92,15732
+Asia,MobileX,Redmi,2023-09-13,4,111,16872
+Asia,MobileX,Redmi,2023-10-30,4,63,11592
+Asia,MobileX,Redmi,2023-11-12,2,125,19250
+Asia,MobileX,Redmi,2023-12-23,3,62,6448
+Asia,MobileX,Oppo,2023-01-09,2,194,29876
+Asia,MobileX,Oppo,2023-02-23,4,166,24236
+Asia,MobileX,Oppo,2023-03-02,2,172,31820
+Asia,MobileX,Oppo,2023-04-27,3,58,7656
+Asia,MobileX,Oppo,2023-05-17,1,84,10836
+Asia,MobileX,Oppo,2023-06-03,4,150,21300
+Asia,MobileX,Oppo,2023-07-06,4,154,21406
+Asia,MobileX,Oppo,2023-08-17,1,73,10512
+Asia,MobileX,Oppo,2023-09-12,3,198,36234
+Asia,MobileX,Oppo,2023-10-12,3,53,10335
+Asia,MobileX,Oppo,2023-11-05,3,51,6273
+Asia,MobileX,Oppo,2023-12-29,1,85,11560
+Asia,Mobite,Oneplus,2023-01-18,4,198,38610
+Asia,Mobite,Oneplus,2023-02-24,1,116,11600
+Asia,Mobite,Oneplus,2023-03-18,3,187,30481
+Asia,Mobite,Oneplus,2023-04-17,2,81,13770
+Asia,Mobite,Oneplus,2023-05-20,1,53,6148
+Asia,Mobite,Oneplus,2023-06-09,4,143,14729
+Asia,Mobite,Oneplus,2023-07-16,1,148,18796
+Asia,Mobite,Oneplus,2023-08-24,4,69,12420
+Asia,Mobite,Oneplus,2023-09-02,2,182,22932
+Asia,Mobite,Oneplus,2023-10-23,2,177,28851
+Asia,Mobite,Oneplus,2023-11-02,3,184,22632
+Asia,Mobite,Oneplus,2023-12-04,2,178,20114
+Asia,Mobite,Samsung,2023-01-14,4,123,19557
+Asia,Mobite,Samsung,2023-02-15,4,119,19635
+Asia,Mobite,Samsung,2023-03-23,3,79,9875
+Asia,Mobite,Samsung,2023-04-16,3,108,14580
+Asia,Mobite,Samsung,2023-05-25,1,129,20769
+Asia,Mobite,Samsung,2023-06-11,1,128,24832
+Asia,Mobite,Samsung,2023-07-08,2,190,21470
+Asia,Mobite,Samsung,2023-08-16,3,63,9072
+Asia,Mobite,Samsung,2023-09-12,3,152,29032
+Asia,Mobite,Samsung,2023-10-28,2,95,15675
+Asia,Mobite,Samsung,2023-11-08,2,171,25821
+Asia,Mobite,Samsung,2023-12-27,2,89,13884
+Asia,Mobite,Apple,2023-01-27,1,71,11999
+Asia,Mobite,Apple,2023-02-18,1,140,26460
+Asia,Mobite,Apple,2023-03-16,3,107,15729
+Asia,Mobite,Apple,2023-04-11,1,121,15125
+Asia,Mobite,Apple,2023-05-31,3,81,11664
+Asia,Mobite,Apple,2023-06-24,3,188,24252
+Asia,Mobite,Apple,2023-07-21,3,174,29754
+Asia,Mobite,Apple,2023-08-12,3,71,13845
+Asia,Mobite,Apple,2023-09-02,2,67,8241
+Asia,Mobite,Apple,2023-10-20,1,87,8787
+Asia,Mobite,Apple,2023-11-01,1,174,18444
+Asia,Mobite,Apple,2023-12-07,4,99,14751
+Asia,Mobite,Redmi,2023-01-15,4,187,35343
+Asia,Mobite,Redmi,2023-02-10,4,192,32448
+Asia,Mobite,Redmi,2023-03-07,4,82,8938
+Asia,Mobite,Redmi,2023-04-29,2,173,25085
+Asia,Mobite,Redmi,2023-05-23,1,95,11115
+Asia,Mobite,Redmi,2023-06-05,4,51,9435
+Asia,Mobite,Redmi,2023-07-11,1,165,32175
+Asia,Mobite,Redmi,2023-08-23,4,188,34028
+Asia,Mobite,Redmi,2023-09-22,3,84,10500
+Asia,Mobite,Redmi,2023-10-10,2,131,17161
+Asia,Mobite,Redmi,2023-11-21,2,79,13588
+Asia,Mobite,Redmi,2023-12-01,1,78,8580
+Asia,Mobite,Oppo,2023-01-09,1,61,6161
+Asia,Mobite,Oppo,2023-02-16,3,189,20034
+Asia,Mobite,Oppo,2023-03-24,4,189,26838
+Asia,Mobite,Oppo,2023-04-09,1,150,26250
+Asia,Mobite,Oppo,2023-05-22,4,127,24892
+Asia,Mobite,Oppo,2023-06-29,3,133,19152
+Asia,Mobite,Oppo,2023-07-31,2,57,9633
+Asia,Mobite,Oppo,2023-08-20,2,68,11968
+Asia,Mobite,Oppo,2023-09-30,3,127,22860
+Asia,Mobite,Oppo,2023-10-01,3,120,23640
+Asia,Mobite,Oppo,2023-11-02,3,118,13334
+Asia,Mobite,Oppo,2023-12-22,3,157,29359
+Asia,MobilePlanet,Oneplus,2023-01-30,2,68,12104
+Asia,MobilePlanet,Oneplus,2023-02-14,1,110,17930
+Asia,MobilePlanet,Oneplus,2023-03-21,4,121,16456
+Asia,MobilePlanet,Oneplus,2023-04-16,4,52,7748
+Asia,MobilePlanet,Oneplus,2023-05-11,1,123,23985
+Asia,MobilePlanet,Oneplus,2023-06-06,1,145,26245
+Asia,MobilePlanet,Oneplus,2023-07-28,2,164,28208
+Asia,MobilePlanet,Oneplus,2023-08-27,1,145,27840
+Asia,MobilePlanet,Oneplus,2023-09-29,4,62,7316
+Asia,MobilePlanet,Oneplus,2023-10-24,1,153,16065
+Asia,MobilePlanet,Oneplus,2023-11-30,3,67,7303
+Asia,MobilePlanet,Oneplus,2023-12-04,4,177,27966
+Asia,MobilePlanet,Samsung,2023-01-14,2,177,18054
+Asia,MobilePlanet,Samsung,2023-02-26,3,125,13875
+Asia,MobilePlanet,Samsung,2023-03-16,4,65,12090
+Asia,MobilePlanet,Samsung,2023-04-29,4,176,27280
+Asia,MobilePlanet,Samsung,2023-05-12,4,151,27935
+Asia,MobilePlanet,Samsung,2023-06-30,4,114,16986
+Asia,MobilePlanet,Samsung,2023-07-12,4,158,28598
+Asia,MobilePlanet,Samsung,2023-08-19,3,137,19317
+Asia,MobilePlanet,Samsung,2023-09-06,1,168,21000
+Asia,MobilePlanet,Samsung,2023-10-16,4,164,20828
+Asia,MobilePlanet,Samsung,2023-11-19,2,66,13002
+Asia,MobilePlanet,Samsung,2023-12-17,2,170,31450
+Asia,MobilePlanet,Apple,2023-01-15,4,121,24079
+Asia,MobilePlanet,Apple,2023-02-24,4,74,8806
+Asia,MobilePlanet,Apple,2023-03-03,3,157,16171
+Asia,MobilePlanet,Apple,2023-04-18,1,56,6552
+Asia,MobilePlanet,Apple,2023-05-22,1,112,16016
+Asia,MobilePlanet,Apple,2023-06-10,3,156,15756
+Asia,MobilePlanet,Apple,2023-07-10,3,85,11815
+Asia,MobilePlanet,Apple,2023-08-02,1,155,27125
+Asia,MobilePlanet,Apple,2023-09-23,4,122,21716
+Asia,MobilePlanet,Apple,2023-10-12,2,57,6783
+Asia,MobilePlanet,Apple,2023-11-11,4,160,22400
+Asia,MobilePlanet,Apple,2023-12-23,2,90,11070
+Asia,MobilePlanet,Redmi,2023-01-16,1,106,15476
+Asia,MobilePlanet,Redmi,2023-02-24,4,90,14580
+Asia,MobilePlanet,Redmi,2023-03-16,4,104,17680
+Asia,MobilePlanet,Redmi,2023-04-06,4,73,11169
+Asia,MobilePlanet,Redmi,2023-05-19,4,133,19684
+Asia,MobilePlanet,Redmi,2023-06-21,2,57,9975
+Asia,MobilePlanet,Redmi,2023-07-03,3,106,16324
+Asia,MobilePlanet,Redmi,2023-08-09,3,167,27722
+Asia,MobilePlanet,Redmi,2023-09-16,2,161,21735
+Asia,MobilePlanet,Redmi,2023-10-04,3,183,33672
+Asia,MobilePlanet,Redmi,2023-11-12,4,117,20358
+Asia,MobilePlanet,Redmi,2023-12-15,1,70,7630
+Asia,MobilePlanet,Oppo,2023-01-20,1,130,20930
+Asia,MobilePlanet,Oppo,2023-02-17,2,72,8280
+Asia,MobilePlanet,Oppo,2023-03-19,4,102,12240
+Asia,MobilePlanet,Oppo,2023-04-25,1,74,8806
+Asia,MobilePlanet,Oppo,2023-05-11,1,164,32472
+Asia,MobilePlanet,Oppo,2023-06-22,4,133,16093
+Asia,MobilePlanet,Oppo,2023-07-20,2,85,8670
+Asia,MobilePlanet,Oppo,2023-08-14,1,191,36290
+Asia,MobilePlanet,Oppo,2023-09-04,3,90,10980
+Asia,MobilePlanet,Oppo,2023-10-03,1,148,26788
+Asia,MobilePlanet,Oppo,2023-11-08,3,71,10224
+Asia,MobilePlanet,Oppo,2023-12-05,3,76,12084
+Asia,MobileGarage,Oneplus,2023-01-12,1,173,31832
+Asia,MobileGarage,Oneplus,2023-02-12,1,56,5768
+Asia,MobileGarage,Oneplus,2023-03-25,1,166,20086
+Asia,MobileGarage,Oneplus,2023-04-06,3,142,19596
+Asia,MobileGarage,Oneplus,2023-05-07,4,176,19360
+Asia,MobileGarage,Oneplus,2023-06-08,4,114,16986
+Asia,MobileGarage,Oneplus,2023-07-01,2,118,18290
+Asia,MobileGarage,Oneplus,2023-08-29,3,114,20520
+Asia,MobileGarage,Oneplus,2023-09-11,1,63,7812
+Asia,MobileGarage,Oneplus,2023-10-15,2,79,8453
+Asia,MobileGarage,Oneplus,2023-11-28,2,193,24511
+Asia,MobileGarage,Oneplus,2023-12-12,4,66,9306
+Asia,MobileGarage,Samsung,2023-01-02,3,181,31132
+Asia,MobileGarage,Samsung,2023-02-11,2,175,21350
+Asia,MobileGarage,Samsung,2023-03-22,2,144,14976
+Asia,MobileGarage,Samsung,2023-04-19,2,75,9825
+Asia,MobileGarage,Samsung,2023-05-11,4,72,12312
+Asia,MobileGarage,Samsung,2023-06-05,4,194,33756
+Asia,MobileGarage,Samsung,2023-07-28,4,154,30492
+Asia,MobileGarage,Samsung,2023-08-22,3,105,15225
+Asia,MobileGarage,Samsung,2023-09-18,4,177,35223
+Asia,MobileGarage,Samsung,2023-10-27,1,92,12144
+Asia,MobileGarage,Samsung,2023-11-06,3,121,15972
+Asia,MobileGarage,Samsung,2023-12-16,2,190,34770
+Asia,MobileGarage,Apple,2023-01-29,4,182,35672
+Asia,MobileGarage,Apple,2023-02-03,4,128,24448
+Asia,MobileGarage,Apple,2023-03-29,3,105,14910
+Asia,MobileGarage,Apple,2023-04-09,2,147,23079
+Asia,MobileGarage,Apple,2023-05-22,4,77,9240
+Asia,MobileGarage,Apple,2023-06-22,4,104,20696
+Asia,MobileGarage,Apple,2023-07-18,1,94,12126
+Asia,MobileGarage,Apple,2023-08-22,3,69,8280
+Asia,MobileGarage,Apple,2023-09-30,4,169,27040
+Asia,MobileGarage,Apple,2023-10-25,4,122,23790
+Asia,MobileGarage,Apple,2023-11-30,3,108,11664
+Asia,MobileGarage,Apple,2023-12-09,2,53,6148
+Asia,MobileGarage,Redmi,2023-01-14,3,157,28103
+Asia,MobileGarage,Redmi,2023-02-01,3,90,10440
+Asia,MobileGarage,Redmi,2023-03-17,4,187,37213
+Asia,MobileGarage,Redmi,2023-04-08,2,167,23046
+Asia,MobileGarage,Redmi,2023-05-02,3,178,18512
+Asia,MobileGarage,Redmi,2023-06-20,2,127,20447
+Asia,MobileGarage,Redmi,2023-07-15,4,106,11978
+Asia,MobileGarage,Redmi,2023-08-21,2,68,11424
+Asia,MobileGarage,Redmi,2023-09-17,1,153,26010
+Asia,MobileGarage,Redmi,2023-10-18,2,59,9440
+Asia,MobileGarage,Redmi,2023-11-09,1,50,8450
+Asia,MobileGarage,Redmi,2023-12-28,3,117,22464
+Asia,MobileGarage,Oppo,2023-01-27,2,69,8004
+Asia,MobileGarage,Oppo,2023-02-13,4,79,12166
+Asia,MobileGarage,Oppo,2023-03-27,1,110,20350
+Asia,MobileGarage,Oppo,2023-04-01,3,182,19292
+Asia,MobileGarage,Oppo,2023-05-21,2,60,6600
+Asia,MobileGarage,Oppo,2023-06-01,3,178,27946
+Asia,MobileGarage,Oppo,2023-07-22,1,89,12460
+Asia,MobileGarage,Oppo,2023-08-29,2,50,6450
+Asia,MobileGarage,Oppo,2023-09-26,2,155,27900
+Asia,MobileGarage,Oppo,2023-10-14,4,116,17052
+Asia,MobileGarage,Oppo,2023-11-03,2,113,13786
+Asia,MobileGarage,Oppo,2023-12-16,1,83,12616
+Europe,MobileX,Oneplus,2023-01-20,4,175,25200
+Europe,MobileX,Oneplus,2023-02-19,3,164,28536
+Europe,MobileX,Oneplus,2023-03-21,4,159,31482
+Europe,MobileX,Oneplus,2023-04-12,4,151,15251
+Europe,MobileX,Oneplus,2023-05-21,4,101,14645
+Europe,MobileX,Oneplus,2023-06-12,4,68,9860
+Europe,MobileX,Oneplus,2023-07-31,4,194,23280
+Europe,MobileX,Oneplus,2023-08-05,2,147,17934
+Europe,MobileX,Oneplus,2023-09-19,3,100,10200
+Europe,MobileX,Oneplus,2023-10-22,1,162,28512
+Europe,MobileX,Oneplus,2023-11-18,2,192,33408
+Europe,MobileX,Oneplus,2023-12-01,2,140,27580
+Europe,MobileX,Samsung,2023-01-10,2,76,8360
+Europe,MobileX,Samsung,2023-02-14,1,136,21216
+Europe,MobileX,Samsung,2023-03-07,2,185,33115
+Europe,MobileX,Samsung,2023-04-28,1,89,15397
+Europe,MobileX,Samsung,2023-05-06,1,98,12054
+Europe,MobileX,Samsung,2023-06-25,1,84,14616
+Europe,MobileX,Samsung,2023-07-25,2,140,21140
+Europe,MobileX,Samsung,2023-08-25,2,153,21573
+Europe,MobileX,Samsung,2023-09-17,4,60,10260
+Europe,MobileX,Samsung,2023-10-13,3,63,11340
+Europe,MobileX,Samsung,2023-11-09,3,119,18802
+Europe,MobileX,Samsung,2023-12-19,3,189,36288
+Europe,MobileX,Apple,2023-01-09,2,146,28178
+Europe,MobileX,Apple,2023-02-07,4,125,15125
+Europe,MobileX,Apple,2023-03-25,2,102,12138
+Europe,MobileX,Apple,2023-04-28,4,129,16770
+Europe,MobileX,Apple,2023-05-23,1,106,13674
+Europe,MobileX,Apple,2023-06-25,3,110,15620
+Europe,MobileX,Apple,2023-07-19,1,173,19376
+Europe,MobileX,Apple,2023-08-16,4,167,21376
+Europe,MobileX,Apple,2023-09-30,3,121,20691
+Europe,MobileX,Apple,2023-10-28,3,92,13984
+Europe,MobileX,Apple,2023-11-05,3,162,26406
+Europe,MobileX,Apple,2023-12-23,3,180,33300
+Europe,MobileX,Redmi,2023-01-30,3,175,33950
+Europe,MobileX,Redmi,2023-02-13,2,84,16716
+Europe,MobileX,Redmi,2023-03-31,2,120,12120
+Europe,MobileX,Redmi,2023-04-14,1,55,7370
+Europe,MobileX,Redmi,2023-05-09,4,180,23580
+Europe,MobileX,Redmi,2023-06-25,4,199,35024
+Europe,MobileX,Redmi,2023-07-18,3,104,13104
+Europe,MobileX,Redmi,2023-08-03,1,196,27440
+Europe,MobileX,Redmi,2023-09-20,1,57,10659
+Europe,MobileX,Redmi,2023-10-20,4,196,29792
+Europe,MobileX,Redmi,2023-11-24,3,154,22792
+Europe,MobileX,Redmi,2023-12-04,4,94,9776
+Europe,MobileX,Oppo,2023-01-30,3,129,25026
+Europe,MobileX,Oppo,2023-02-16,2,109,18203
+Europe,MobileX,Oppo,2023-03-30,1,119,14518
+Europe,MobileX,Oppo,2023-04-08,2,173,18338
+Europe,MobileX,Oppo,2023-05-28,1,138,26772
+Europe,MobileX,Oppo,2023-06-09,3,97,18818
+Europe,MobileX,Oppo,2023-07-16,2,131,17030
+Europe,MobileX,Oppo,2023-08-10,2,192,30336
+Europe,MobileX,Oppo,2023-09-18,4,65,6955
+Europe,MobileX,Oppo,2023-10-10,3,187,28611
+Europe,MobileX,Oppo,2023-11-26,4,174,23316
+Europe,MobileX,Oppo,2023-12-14,2,61,11041
+Europe,Mobite,Oneplus,2023-01-28,1,102,19176
+Europe,Mobite,Oneplus,2023-02-07,2,53,7155
+Europe,Mobite,Oneplus,2023-03-12,4,164,26404
+Europe,Mobite,Oneplus,2023-04-24,3,106,20352
+Europe,Mobite,Oneplus,2023-05-15,3,133,20083
+Europe,Mobite,Oneplus,2023-06-05,1,174,30798
+Europe,Mobite,Oneplus,2023-07-17,2,58,9280
+Europe,Mobite,Oneplus,2023-08-22,1,110,16390
+Europe,Mobite,Oneplus,2023-09-17,3,190,37620
+Europe,Mobite,Oneplus,2023-10-25,1,84,13440
+Europe,Mobite,Oneplus,2023-11-05,4,106,19186
+Europe,Mobite,Oneplus,2023-12-27,4,96,13920
+Europe,Mobite,Samsung,2023-01-29,4,112,15456
+Europe,Mobite,Samsung,2023-02-03,3,142,15194
+Europe,Mobite,Samsung,2023-03-11,4,130,14040
+Europe,Mobite,Samsung,2023-04-24,2,134,26666
+Europe,Mobite,Samsung,2023-05-07,1,174,31842
+Europe,Mobite,Samsung,2023-06-04,2,113,15481
+Europe,Mobite,Samsung,2023-07-09,3,141,17907
+Europe,Mobite,Samsung,2023-08-09,2,109,12535
+Europe,Mobite,Samsung,2023-09-09,1,57,5928
+Europe,Mobite,Samsung,2023-10-20,4,106,18656
+Europe,Mobite,Samsung,2023-11-10,1,151,15855
+Europe,Mobite,Samsung,2023-12-23,2,115,14605
+Europe,Mobite,Apple,2023-01-25,1,137,18906
+Europe,Mobite,Apple,2023-02-21,2,192,32832
+Europe,Mobite,Apple,2023-03-09,4,50,8700
+Europe,Mobite,Apple,2023-04-14,2,156,28236
+Europe,Mobite,Apple,2023-05-11,4,177,21063
+Europe,Mobite,Apple,2023-06-17,4,165,31845
+Europe,Mobite,Apple,2023-07-04,4,177,33807
+Europe,Mobite,Apple,2023-08-12,2,136,22984
+Europe,Mobite,Apple,2023-09-06,4,196,31948
+Europe,Mobite,Apple,2023-10-27,1,143,19877
+Europe,Mobite,Apple,2023-11-27,3,120,13440
+Europe,Mobite,Apple,2023-12-29,1,136,13872
+Europe,Mobite,Redmi,2023-01-13,4,110,11880
+Europe,Mobite,Redmi,2023-02-28,3,69,13179
+Europe,Mobite,Redmi,2023-03-25,4,88,11176
+Europe,Mobite,Redmi,2023-04-20,4,172,20640
+Europe,Mobite,Redmi,2023-05-26,1,143,19019
+Europe,Mobite,Redmi,2023-06-19,1,122,16836
+Europe,Mobite,Redmi,2023-07-30,2,127,21590
+Europe,Mobite,Redmi,2023-08-14,3,144,16560
+Europe,Mobite,Redmi,2023-09-22,4,192,20160
+Europe,Mobite,Redmi,2023-10-08,1,184,27600
+Europe,Mobite,Redmi,2023-11-13,3,110,17270
+Europe,Mobite,Redmi,2023-12-07,1,88,9768
+Europe,Mobite,Oppo,2023-01-25,1,129,14061
+Europe,Mobite,Oppo,2023-02-01,3,123,20418
+Europe,Mobite,Oppo,2023-03-28,1,132,23496
+Europe,Mobite,Oppo,2023-04-19,1,58,10440
+Europe,Mobite,Oppo,2023-05-26,1,133,13965
+Europe,Mobite,Oppo,2023-06-22,1,166,27722
+Europe,Mobite,Oppo,2023-07-02,2,90,17010
+Europe,Mobite,Oppo,2023-08-14,1,66,9900
+Europe,Mobite,Oppo,2023-09-13,2,172,33196
+Europe,Mobite,Oppo,2023-10-25,3,145,17835
+Europe,Mobite,Oppo,2023-11-13,2,176,28512
+Europe,Mobite,Oppo,2023-12-19,2,197,27383
+Europe,MobilePlanet,Oneplus,2023-01-10,4,121,18271
+Europe,MobilePlanet,Oneplus,2023-02-18,2,76,12844
+Europe,MobilePlanet,Oneplus,2023-03-02,2,198,33660
+Europe,MobilePlanet,Oneplus,2023-04-08,3,133,21014
+Europe,MobilePlanet,Oneplus,2023-05-29,4,70,9870
+Europe,MobilePlanet,Oneplus,2023-06-15,2,174,28362
+Europe,MobilePlanet,Oneplus,2023-07-29,1,148,20720
+Europe,MobilePlanet,Oneplus,2023-08-16,3,79,12719
+Europe,MobilePlanet,Oneplus,2023-09-21,4,127,23749
+Europe,MobilePlanet,Oneplus,2023-10-25,3,55,8800
+Europe,MobilePlanet,Oneplus,2023-11-04,1,80,15520
+Europe,MobilePlanet,Oneplus,2023-12-24,3,175,25375
+Europe,MobilePlanet,Samsung,2023-01-09,1,116,23084
+Europe,MobilePlanet,Samsung,2023-02-08,2,144,28080
+Europe,MobilePlanet,Samsung,2023-03-19,4,164,20992
+Europe,MobilePlanet,Samsung,2023-04-13,2,74,13690
+Europe,MobilePlanet,Samsung,2023-05-14,2,72,7992
+Europe,MobilePlanet,Samsung,2023-06-14,4,81,8586
+Europe,MobilePlanet,Samsung,2023-07-08,2,198,26532
+Europe,MobilePlanet,Samsung,2023-08-21,1,114,15960
+Europe,MobilePlanet,Samsung,2023-09-20,1,166,17762
+Europe,MobilePlanet,Samsung,2023-10-09,1,130,22100
+Europe,MobilePlanet,Samsung,2023-11-06,3,79,12245
+Europe,MobilePlanet,Samsung,2023-12-19,3,128,23040
+Europe,MobilePlanet,Apple,2023-01-30,1,72,8856
+Europe,MobilePlanet,Apple,2023-02-26,1,68,13260
+Europe,MobilePlanet,Apple,2023-03-05,2,144,18144
+Europe,MobilePlanet,Apple,2023-04-03,4,121,20328
+Europe,MobilePlanet,Apple,2023-05-27,2,73,9636
+Europe,MobilePlanet,Apple,2023-06-24,3,194,20758
+Europe,MobilePlanet,Apple,2023-07-16,2,153,24480
+Europe,MobilePlanet,Apple,2023-08-10,1,188,34028
+Europe,MobilePlanet,Apple,2023-09-18,1,167,26553
+Europe,MobilePlanet,Apple,2023-10-05,1,176,25168
+Europe,MobilePlanet,Apple,2023-11-03,4,102,11628
+Europe,MobilePlanet,Apple,2023-12-24,2,129,23607
+Europe,MobilePlanet,Redmi,2023-01-06,1,187,27489
+Europe,MobilePlanet,Redmi,2023-02-17,3,188,33652
+Europe,MobilePlanet,Redmi,2023-03-27,1,76,9880
+Europe,MobilePlanet,Redmi,2023-04-28,4,197,36839
+Europe,MobilePlanet,Redmi,2023-05-25,2,107,12519
+Europe,MobilePlanet,Redmi,2023-06-03,4,138,21804
+Europe,MobilePlanet,Redmi,2023-07-10,1,130,15600
+Europe,MobilePlanet,Redmi,2023-08-21,3,96,17376
+Europe,MobilePlanet,Redmi,2023-09-23,2,174,25230
+Europe,MobilePlanet,Redmi,2023-10-09,4,164,17384
+Europe,MobilePlanet,Redmi,2023-11-16,3,166,16932
+Europe,MobilePlanet,Redmi,2023-12-14,4,115,11730
+Europe,MobilePlanet,Oppo,2023-01-10,3,65,8710
+Europe,MobilePlanet,Oppo,2023-02-14,4,63,9513
+Europe,MobilePlanet,Oppo,2023-03-14,2,67,11189
+Europe,MobilePlanet,Oppo,2023-04-10,4,117,15561
+Europe,MobilePlanet,Oppo,2023-05-24,2,139,15707
+Europe,MobilePlanet,Oppo,2023-06-27,4,143,20878
+Europe,MobilePlanet,Oppo,2023-07-20,4,73,13651
+Europe,MobilePlanet,Oppo,2023-08-04,1,148,24272
+Europe,MobilePlanet,Oppo,2023-09-08,1,74,12654
+Europe,MobilePlanet,Oppo,2023-10-14,2,58,5916
+Europe,MobilePlanet,Oppo,2023-11-19,4,144,19872
+Europe,MobilePlanet,Oppo,2023-12-12,4,195,27690
+Europe,MobileGarage,Oneplus,2023-01-08,1,132,20064
+Europe,MobileGarage,Oneplus,2023-02-20,4,117,12285
+Europe,MobileGarage,Oneplus,2023-03-18,3,97,9700
+Europe,MobileGarage,Oneplus,2023-04-19,4,53,7155
+Europe,MobileGarage,Oneplus,2023-05-09,4,80,14560
+Europe,MobileGarage,Oneplus,2023-06-23,2,187,31977
+Europe,MobileGarage,Oneplus,2023-07-23,1,95,10925
+Europe,MobileGarage,Oneplus,2023-08-11,2,164,27716
+Europe,MobileGarage,Oneplus,2023-09-05,1,62,9920
+Europe,MobileGarage,Oneplus,2023-10-26,1,127,23241
+Europe,MobileGarage,Oneplus,2023-11-09,2,175,33075
+Europe,MobileGarage,Oneplus,2023-12-09,2,130,23530
+Europe,MobileGarage,Samsung,2023-01-23,3,100,11200
+Europe,MobileGarage,Samsung,2023-02-03,1,64,11840
+Europe,MobileGarage,Samsung,2023-03-03,3,175,34475
+Europe,MobileGarage,Samsung,2023-04-05,2,198,35244
+Europe,MobileGarage,Samsung,2023-05-12,4,133,14763
+Europe,MobileGarage,Samsung,2023-06-23,2,197,38415
+Europe,MobileGarage,Samsung,2023-07-28,2,136,20944
+Europe,MobileGarage,Samsung,2023-08-20,2,138,23046
+Europe,MobileGarage,Samsung,2023-09-14,3,54,7614
+Europe,MobileGarage,Samsung,2023-10-03,2,73,12264
+Europe,MobileGarage,Samsung,2023-11-22,1,146,15184
+Europe,MobileGarage,Samsung,2023-12-21,2,69,8901
+Europe,MobileGarage,Apple,2023-01-12,4,138,18492
+Europe,MobileGarage,Apple,2023-02-28,1,115,21045
+Europe,MobileGarage,Apple,2023-03-23,2,109,16023
+Europe,MobileGarage,Apple,2023-04-28,4,166,25232
+Europe,MobileGarage,Apple,2023-05-13,1,152,30248
+Europe,MobileGarage,Apple,2023-06-20,3,155,20150
+Europe,MobileGarage,Apple,2023-07-22,4,64,11264
+Europe,MobileGarage,Apple,2023-08-13,4,117,23049
+Europe,MobileGarage,Apple,2023-09-01,1,110,17820
+Europe,MobileGarage,Apple,2023-10-06,4,174,26448
+Europe,MobileGarage,Apple,2023-11-06,2,167,30227
+Europe,MobileGarage,Apple,2023-12-08,2,149,17284
+Europe,MobileGarage,Redmi,2023-01-11,2,69,12144
+Europe,MobileGarage,Redmi,2023-02-27,2,169,19604
+Europe,MobileGarage,Redmi,2023-03-09,3,72,11376
+Europe,MobileGarage,Redmi,2023-04-17,3,83,11786
+Europe,MobileGarage,Redmi,2023-05-03,1,100,17800
+Europe,MobileGarage,Redmi,2023-06-12,2,163,19723
+Europe,MobileGarage,Redmi,2023-07-12,2,168,29064
+Europe,MobileGarage,Redmi,2023-08-27,4,188,34780
+Europe,MobileGarage,Redmi,2023-09-04,1,113,21583
+Europe,MobileGarage,Redmi,2023-10-26,2,143,18590
+Europe,MobileGarage,Redmi,2023-11-14,4,83,9296
+Europe,MobileGarage,Redmi,2023-12-12,4,64,9152
+Europe,MobileGarage,Oppo,2023-01-16,3,100,12300
+Europe,MobileGarage,Oppo,2023-02-03,1,154,16016
+Europe,MobileGarage,Oppo,2023-03-17,1,134,23048
+Europe,MobileGarage,Oppo,2023-04-05,3,161,23023
+Europe,MobileGarage,Oppo,2023-05-29,3,126,24444
+Europe,MobileGarage,Oppo,2023-06-24,3,189,27027
+Europe,MobileGarage,Oppo,2023-07-09,1,88,8888
+Europe,MobileGarage,Oppo,2023-08-21,3,78,9594
+Europe,MobileGarage,Oppo,2023-09-22,1,93,10323
+Europe,MobileGarage,Oppo,2023-10-10,2,155,27125
+Europe,MobileGarage,Oppo,2023-11-29,4,186,32364
+Europe,MobileGarage,Oppo,2023-12-25,3,63,8946
+North America,MobileX,Oneplus,2023-01-14,3,53,7526
+North America,MobileX,Oneplus,2023-02-07,1,62,10106
+North America,MobileX,Oneplus,2023-03-11,3,154,20020
+North America,MobileX,Oneplus,2023-04-15,2,121,21659
+North America,MobileX,Oneplus,2023-05-03,2,191,32661
+North America,MobileX,Oneplus,2023-06-07,3,182,34762
+North America,MobileX,Oneplus,2023-07-23,3,57,6213
+North America,MobileX,Oneplus,2023-08-19,2,175,32725
+North America,MobileX,Oneplus,2023-09-26,1,145,25665
+North America,MobileX,Oneplus,2023-10-31,4,157,19468
+North America,MobileX,Oneplus,2023-11-10,2,106,16960
+North America,MobileX,Oneplus,2023-12-26,4,71,8236
+North America,MobileX,Samsung,2023-01-21,2,100,13800
+North America,MobileX,Samsung,2023-02-20,3,118,21122
+North America,MobileX,Samsung,2023-03-28,3,59,8201
+North America,MobileX,Samsung,2023-04-29,3,128,24064
+North America,MobileX,Samsung,2023-05-21,3,59,6667
+North America,MobileX,Samsung,2023-06-19,2,107,20437
+North America,MobileX,Samsung,2023-07-21,1,112,11200
+North America,MobileX,Samsung,2023-08-19,1,171,27873
+North America,MobileX,Samsung,2023-09-02,4,101,14746
+North America,MobileX,Samsung,2023-10-24,3,74,13616
+North America,MobileX,Samsung,2023-11-04,4,139,19599
+North America,MobileX,Samsung,2023-12-23,1,170,24820
+North America,MobileX,Apple,2023-01-01,4,80,15120
+North America,MobileX,Apple,2023-02-09,1,91,12285
+North America,MobileX,Apple,2023-03-11,3,106,16854
+North America,MobileX,Apple,2023-04-30,3,171,18810
+North America,MobileX,Apple,2023-05-03,2,100,17000
+North America,MobileX,Apple,2023-06-25,1,155,17670
+North America,MobileX,Apple,2023-07-15,3,92,9568
+North America,MobileX,Apple,2023-08-12,1,50,7800
+North America,MobileX,Apple,2023-09-14,2,166,18758
+North America,MobileX,Apple,2023-10-22,4,91,9464
+North America,MobileX,Apple,2023-11-17,4,156,16380
+North America,MobileX,Apple,2023-12-14,2,65,8515
+North America,MobileX,Redmi,2023-01-11,2,78,11544
+North America,MobileX,Redmi,2023-02-05,3,183,20679
+North America,MobileX,Redmi,2023-03-13,1,95,18620
+North America,MobileX,Redmi,2023-04-20,2,128,20864
+North America,MobileX,Redmi,2023-05-26,2,63,9513
+North America,MobileX,Redmi,2023-06-26,2,97,13871
+North America,MobileX,Redmi,2023-07-24,4,154,27258
+North America,MobileX,Redmi,2023-08-30,3,125,23875
+North America,MobileX,Redmi,2023-09-13,1,140,16800
+North America,MobileX,Redmi,2023-10-21,2,119,12614
+North America,MobileX,Redmi,2023-11-29,1,54,9828
+North America,MobileX,Redmi,2023-12-02,4,182,18564
+North America,MobileX,Oppo,2023-01-19,2,74,14134
+North America,MobileX,Oppo,2023-02-18,2,110,11660
+North America,MobileX,Oppo,2023-03-25,3,192,36480
+North America,MobileX,Oppo,2023-04-30,1,79,11613
+North America,MobileX,Oppo,2023-05-16,1,165,29865
+North America,MobileX,Oppo,2023-06-02,1,107,18832
+North America,MobileX,Oppo,2023-07-20,3,163,18582
+North America,MobileX,Oppo,2023-08-24,2,75,10800
+North America,MobileX,Oppo,2023-09-08,2,94,17578
+North America,MobileX,Oppo,2023-10-15,4,79,9559
+North America,MobileX,Oppo,2023-11-13,3,105,17010
+North America,MobileX,Oppo,2023-12-30,3,86,16168
+North America,Mobite,Oneplus,2023-01-10,2,117,18837
+North America,Mobite,Oneplus,2023-02-23,3,170,19890
+North America,Mobite,Oneplus,2023-03-21,1,133,14098
+North America,Mobite,Oneplus,2023-04-26,4,131,14672
+North America,Mobite,Oneplus,2023-05-24,2,151,24009
+North America,Mobite,Oneplus,2023-06-26,1,72,9504
+North America,Mobite,Oneplus,2023-07-07,4,129,18318
+North America,Mobite,Oneplus,2023-08-09,1,71,10153
+North America,Mobite,Oneplus,2023-09-18,3,127,18161
+North America,Mobite,Oneplus,2023-10-27,2,198,38016
+North America,Mobite,Oneplus,2023-11-02,4,59,7906
+North America,Mobite,Oneplus,2023-12-10,2,159,31641
+North America,Mobite,Samsung,2023-01-03,2,69,8625
+North America,Mobite,Samsung,2023-02-02,4,160,28960
+North America,Mobite,Samsung,2023-03-03,2,94,12596
+North America,Mobite,Samsung,2023-04-01,4,86,14276
+North America,Mobite,Samsung,2023-05-25,3,103,19982
+North America,Mobite,Samsung,2023-06-11,2,180,18720
+North America,Mobite,Samsung,2023-07-04,4,51,8619
+North America,Mobite,Samsung,2023-08-08,1,69,10764
+North America,Mobite,Samsung,2023-09-11,4,152,16112
+North America,Mobite,Samsung,2023-10-20,1,57,7353
+North America,Mobite,Samsung,2023-11-26,4,116,16008
+North America,Mobite,Samsung,2023-12-02,1,72,12312
+North America,Mobite,Apple,2023-01-21,1,168,26712
+North America,Mobite,Apple,2023-02-01,2,150,21450
+North America,Mobite,Apple,2023-03-02,3,100,12700
+North America,Mobite,Apple,2023-04-30,3,196,32928
+North America,Mobite,Apple,2023-05-30,1,198,31878
+North America,Mobite,Apple,2023-06-18,1,77,13629
+North America,Mobite,Apple,2023-07-02,3,149,24734
+North America,Mobite,Apple,2023-08-16,3,165,20460
+North America,Mobite,Apple,2023-09-24,3,64,8896
+North America,Mobite,Apple,2023-10-26,2,106,16006
+North America,Mobite,Apple,2023-11-24,2,195,26715
+North America,Mobite,Apple,2023-12-28,1,185,33300
+North America,Mobite,Redmi,2023-01-29,1,142,20874
+North America,Mobite,Redmi,2023-02-18,1,93,16740
+North America,Mobite,Redmi,2023-03-18,4,127,14351
+North America,Mobite,Redmi,2023-04-02,3,76,13756
+North America,Mobite,Redmi,2023-05-27,1,155,26195
+North America,Mobite,Redmi,2023-06-07,3,110,15730
+North America,Mobite,Redmi,2023-07-16,1,169,28223
+North America,Mobite,Redmi,2023-08-10,4,122,20984
+North America,Mobite,Redmi,2023-09-05,1,184,19320
+North America,Mobite,Redmi,2023-10-02,3,73,7738
+North America,Mobite,Redmi,2023-11-22,1,194,21534
+North America,Mobite,Redmi,2023-12-25,2,156,18564
+North America,Mobite,Oppo,2023-01-20,4,168,27888
+North America,Mobite,Oppo,2023-02-01,1,194,25220
+North America,Mobite,Oppo,2023-03-23,2,148,16872
+North America,Mobite,Oppo,2023-04-21,3,56,10136
+North America,Mobite,Oppo,2023-05-30,4,78,9672
+North America,Mobite,Oppo,2023-06-20,2,78,15288
+North America,Mobite,Oppo,2023-07-12,2,185,28675
+North America,Mobite,Oppo,2023-08-26,1,51,6630
+North America,Mobite,Oppo,2023-09-09,3,165,26400
+North America,Mobite,Oppo,2023-10-18,4,197,36839
+North America,Mobite,Oppo,2023-11-02,3,145,23635
+North America,Mobite,Oppo,2023-12-28,4,89,16287
+North America,MobilePlanet,Oneplus,2023-01-06,1,194,35308
+North America,MobilePlanet,Oneplus,2023-02-21,1,156,20592
+North America,MobilePlanet,Oneplus,2023-03-04,1,114,16074
+North America,MobilePlanet,Oneplus,2023-04-13,2,186,36084
+North America,MobilePlanet,Oneplus,2023-05-14,4,74,9620
+North America,MobilePlanet,Oneplus,2023-06-02,2,166,32868
+North America,MobilePlanet,Oneplus,2023-07-21,3,151,16308
+North America,MobilePlanet,Oneplus,2023-08-02,2,118,15576
+North America,MobilePlanet,Oneplus,2023-09-17,4,117,14508
+North America,MobilePlanet,Oneplus,2023-10-30,4,94,9494
+North America,MobilePlanet,Oneplus,2023-11-01,4,188,27072
+North America,MobilePlanet,Oneplus,2023-12-31,3,124,16120
+North America,MobilePlanet,Samsung,2023-01-27,4,142,14200
+North America,MobilePlanet,Samsung,2023-02-14,3,115,13110
+North America,MobilePlanet,Samsung,2023-03-15,2,138,22356
+North America,MobilePlanet,Samsung,2023-04-21,1,90,9990
+North America,MobilePlanet,Samsung,2023-05-16,2,120,23880
+North America,MobilePlanet,Samsung,2023-06-05,1,121,18634
+North America,MobilePlanet,Samsung,2023-07-25,2,120,21720
+North America,MobilePlanet,Samsung,2023-08-28,2,86,11266
+North America,MobilePlanet,Samsung,2023-09-05,4,50,6000
+North America,MobilePlanet,Samsung,2023-10-19,4,146,17666
+North America,MobilePlanet,Samsung,2023-11-28,2,153,19125
+North America,MobilePlanet,Samsung,2023-12-11,4,193,34933
+North America,MobilePlanet,Apple,2023-01-23,4,131,23318
+North America,MobilePlanet,Apple,2023-02-17,2,126,19026
+North America,MobilePlanet,Apple,2023-03-09,3,86,9374
+North America,MobilePlanet,Apple,2023-04-04,3,93,10602
+North America,MobilePlanet,Apple,2023-05-10,1,169,25519
+North America,MobilePlanet,Apple,2023-06-08,4,96,18144
+North America,MobilePlanet,Apple,2023-07-29,3,117,23049
+North America,MobilePlanet,Apple,2023-08-21,4,180,21780
+North America,MobilePlanet,Apple,2023-09-26,2,137,22331
+North America,MobilePlanet,Apple,2023-10-31,4,134,15812
+North America,MobilePlanet,Apple,2023-11-07,1,143,25168
+North America,MobilePlanet,Apple,2023-12-26,4,63,9387
+North America,MobilePlanet,Redmi,2023-01-25,2,185,30525
+North America,MobilePlanet,Redmi,2023-02-21,3,164,24436
+North America,MobilePlanet,Redmi,2023-03-10,4,82,11234
+North America,MobilePlanet,Redmi,2023-04-07,4,79,14694
+North America,MobilePlanet,Redmi,2023-05-14,3,166,32038
+North America,MobilePlanet,Redmi,2023-06-13,3,66,9504
+North America,MobilePlanet,Redmi,2023-07-12,2,116,17052
+North America,MobilePlanet,Redmi,2023-08-13,2,118,11800
+North America,MobilePlanet,Redmi,2023-09-18,4,156,22932
+North America,MobilePlanet,Redmi,2023-10-11,4,197,35657
+North America,MobilePlanet,Redmi,2023-11-04,3,118,19824
+North America,MobilePlanet,Redmi,2023-12-23,1,89,14596
+North America,MobilePlanet,Oppo,2023-01-02,1,163,19397
+North America,MobilePlanet,Oppo,2023-02-06,2,198,29106
+North America,MobilePlanet,Oppo,2023-03-31,2,89,9879
+North America,MobilePlanet,Oppo,2023-04-16,2,95,18525
+North America,MobilePlanet,Oppo,2023-05-08,4,89,11481
+North America,MobilePlanet,Oppo,2023-06-11,1,104,13936
+North America,MobilePlanet,Oppo,2023-07-10,3,136,15640
+North America,MobilePlanet,Oppo,2023-08-22,1,82,15744
+North America,MobilePlanet,Oppo,2023-09-20,3,150,15450
+North America,MobilePlanet,Oppo,2023-10-04,3,115,17250
+North America,MobilePlanet,Oppo,2023-11-09,1,137,24386
+North America,MobilePlanet,Oppo,2023-12-02,2,70,8540
+North America,MobileGarage,Oneplus,2023-01-25,2,194,25220
+North America,MobileGarage,Oneplus,2023-02-14,4,70,8190
+North America,MobileGarage,Oneplus,2023-03-04,2,150,25200
+North America,MobileGarage,Oneplus,2023-04-20,1,146,18834
+North America,MobileGarage,Oneplus,2023-05-02,4,184,26680
+North America,MobileGarage,Oneplus,2023-06-18,3,159,22578
+North America,MobileGarage,Oneplus,2023-07-30,4,133,19152
+North America,MobileGarage,Oneplus,2023-08-15,4,161,21091
+North America,MobileGarage,Oneplus,2023-09-14,1,125,15625
+North America,MobileGarage,Oneplus,2023-10-27,4,165,31350
+North America,MobileGarage,Oneplus,2023-11-08,2,154,22792
+North America,MobileGarage,Oneplus,2023-12-27,4,169,31096
+North America,MobileGarage,Samsung,2023-01-22,4,54,6372
+North America,MobileGarage,Samsung,2023-02-13,3,116,15196
+North America,MobileGarage,Samsung,2023-03-19,1,103,11639
+North America,MobileGarage,Samsung,2023-04-10,3,80,11360
+North America,MobileGarage,Samsung,2023-05-09,4,152,27512
+North America,MobileGarage,Samsung,2023-06-23,2,115,13570
+North America,MobileGarage,Samsung,2023-07-31,2,171,30951
+North America,MobileGarage,Samsung,2023-08-22,2,106,14204
+North America,MobileGarage,Samsung,2023-09-30,4,135,22950
+North America,MobileGarage,Samsung,2023-10-14,2,64,6784
+North America,MobileGarage,Samsung,2023-11-03,4,148,21756
+North America,MobileGarage,Samsung,2023-12-23,3,162,26244
+North America,MobileGarage,Apple,2023-01-19,3,137,26989
+North America,MobileGarage,Apple,2023-02-24,1,98,15484
+North America,MobileGarage,Apple,2023-03-09,4,148,18352
+North America,MobileGarage,Apple,2023-04-18,3,199,28059
+North America,MobileGarage,Apple,2023-05-31,3,155,28675
+North America,MobileGarage,Apple,2023-06-13,3,110,18590
+North America,MobileGarage,Apple,2023-07-27,2,56,10080
+North America,MobileGarage,Apple,2023-08-21,1,194,36278
+North America,MobileGarage,Apple,2023-09-26,1,59,6667
+North America,MobileGarage,Apple,2023-10-24,4,99,15840
+North America,MobileGarage,Apple,2023-11-25,1,143,16016
+North America,MobileGarage,Apple,2023-12-28,2,156,26208
+North America,MobileGarage,Redmi,2023-01-03,1,100,16000
+North America,MobileGarage,Redmi,2023-02-27,2,51,5610
+North America,MobileGarage,Redmi,2023-03-30,2,100,10200
+North America,MobileGarage,Redmi,2023-04-26,1,185,23495
+North America,MobileGarage,Redmi,2023-05-02,4,124,20956
+North America,MobileGarage,Redmi,2023-06-11,4,85,10710
+North America,MobileGarage,Redmi,2023-07-19,2,88,10472
+North America,MobileGarage,Redmi,2023-08-07,1,173,19895
+North America,MobileGarage,Redmi,2023-09-08,2,106,16112
+North America,MobileGarage,Redmi,2023-10-27,1,135,17955
+North America,MobileGarage,Redmi,2023-11-30,2,57,8607
+North America,MobileGarage,Redmi,2023-12-29,2,111,19869
+North America,MobileGarage,Oppo,2023-01-23,4,146,28324
+North America,MobileGarage,Oppo,2023-02-20,4,81,12960
+North America,MobileGarage,Oppo,2023-03-12,1,197,28762
+North America,MobileGarage,Oppo,2023-04-05,3,147,16170
+North America,MobileGarage,Oppo,2023-05-16,2,72,12816
+North America,MobileGarage,Oppo,2023-06-21,3,130,25220
+North America,MobileGarage,Oppo,2023-07-02,4,164,24764
+North America,MobileGarage,Oppo,2023-08-31,1,99,17622
+North America,MobileGarage,Oppo,2023-09-04,4,99,12177
+North America,MobileGarage,Oppo,2023-10-03,4,95,12825
+North America,MobileGarage,Oppo,2023-11-05,3,130,21190
+North America,MobileGarage,Oppo,2023-12-29,4,56,9408
