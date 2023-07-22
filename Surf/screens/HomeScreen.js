@@ -1,27 +1,42 @@
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 
-const HomeScreen = () => {
-  const handleViewHistory = () => {
-  };
-
-  const handleRedirectToCamera = () => {
-
-  };
+const HomeScreen = ({ navigation }) => {
+  // Dummy data for emotion detection results (replace this with real data)
+  const emotionsData = [
+    { emotion: 'Happy', percentage: 0.25 },
+    { emotion: 'Sad', percentage: 0.15 },
+    { emotion: 'Angry', percentage: 0.10 },
+    { emotion: 'Disgusting', percentage: 0.16 },
+    { emotion: 'Fear', percentage: 0.14 },
+    { emotion: 'Neutral', percentage: 0.19 },
+    { emotion: 'Surprise', percentage: 0.11 },
+  ];
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>
-        Hello, welcome to surf an amazing application to help you surf throughout your journey of emotions
-      </Text>
-      <View style={styles.widgetsContainer}>
-        <TouchableOpacity onPress={handleViewHistory} style={styles.widget}>
-          <Text style={styles.widgetText}>View History</Text>
+      <Text style={styles.header}>Surf App</Text>
+      <Text style={styles.subHeader}>Detect Emotions and Create Avatars</Text>
+
+      {emotionsData.map((data) => (
+        <TouchableOpacity
+          key={data.emotion}
+          style={styles.widget}
+          onPress={() => {
+            // Handle navigation or any other action when tapping the widget
+          }}
+        >
+          <Text style={styles.widgetText}>{data.emotion}</Text>
+          <Text style={styles.widgetText}>{(data.percentage * 100).toFixed(1)}%</Text>
         </TouchableOpacity>
-        <TouchableOpacity onPress={handleRedirectToCamera} style={styles.widget}>
-          <Text style={styles.widgetText}>Redirect to Camera</Text>
-        </TouchableOpacity>
-      </View>
+      ))}
+
+      <TouchableOpacity
+        style={styles.button}
+        onPress={() => navigation.navigate('CameraScreen')}
+      >
+        <Text style={styles.buttonText}>Start Surfing</Text>
+      </TouchableOpacity>
     </View>
   );
 };
@@ -31,29 +46,38 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    paddingHorizontal: 20,
+    backgroundColor: '#f0f0f0',
   },
-  title: {
-    fontSize: 20,
-    textAlign: 'center',
+  header: {
+    fontSize: 32,
+    fontWeight: 'bold',
     marginBottom: 20,
   },
-  widgetsContainer: {
-    flexDirection: 'row',
-    justifyContent: 'space-around',
-    width: '100%',
+  subHeader: {
+    fontSize: 18,
+    marginBottom: 40,
   },
   widget: {
-    backgroundColor: '#3498db',
-    paddingVertical: 15,
-    paddingHorizontal: 30,
-    borderRadius: 10,
-    marginVertical: 10,
+    backgroundColor: '#fff',
+    padding: 15,
+    borderRadius: 8,
+    marginBottom: 10,
+    width: 200,
+    flexDirection: 'row',
+    justifyContent: 'space-between',
   },
   widgetText: {
-    color: 'white',
+    fontSize: 16,
+  },
+  button: {
+    backgroundColor: '#007bff',
+    padding: 15,
+    borderRadius: 8,
+  },
+  buttonText: {
+    color: '#ffffff',
     fontSize: 18,
-    textAlign: 'center',
+    fontWeight: 'bold',
   },
 });
 
