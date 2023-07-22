@@ -138,7 +138,7 @@ const MyProfile = () => {
         </View>
         <View style={styles.emotionItem}>
           <Text style={styles.emotionIcon}>😞</Text>
-          <Text style={styles.emotionLabel}>Dis</Text>
+          <Text style={styles.emotionLabel}>Disgusting</Text>
           <Text style={styles.emotionPercentage}>{emotionData.dis}%</Text>
         </View>
         <View style={styles.emotionItem}>

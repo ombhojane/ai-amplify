@@ -4,13 +4,13 @@ import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 const HomeScreen = ({ navigation }) => {
   // Dummy data for emotion detection results (replace this with real data)
   const emotionsData = [
-    { emotion: 'Happy', percentage: 0.25 },
-    { emotion: 'Sad', percentage: 0.15 },
-    { emotion: 'Angry', percentage: 0.10 },
-    { emotion: 'Disgusting', percentage: 0.16 },
-    { emotion: 'Fear', percentage: 0.14 },
-    { emotion: 'Neutral', percentage: 0.19 },
-    { emotion: 'Surprise', percentage: 0.11 },
+    { emotion: 'Happy', percentage: 0.30 },
+    { emotion: 'Sad', percentage: 0.12 },
+    { emotion: 'Angry', percentage: 0.15 },
+    { emotion: 'Disgusting', percentage: 0.20 },
+    { emotion: 'Fear', percentage: 0.10 },
+    { emotion: 'Neutral', percentage: 0.10 },
+    { emotion: 'Surprise', percentage: 0.03 },
   ];
 
   return (
