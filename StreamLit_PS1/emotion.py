@@ -27,7 +27,7 @@ emotion_mapping = {
 
 # Dictionary to map emotions to their respective images in the "assets" folder
 emotion_images = {
-    "angry": "assets/angry.png",
+    "angry": "StreamLit_PS1/assets/angry.png",
     "disgust": "assets/disgust.png",
     "fear": "assets/fear.png",
     "happy": "assets/happy.png",
